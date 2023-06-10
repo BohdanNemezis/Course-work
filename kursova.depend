@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1685815413 source:c:\users\admin\desktop\kursova yarynka\programs\function.c
+	"struct.h"
+
+1685816284 c:\users\admin\desktop\kursova yarynka\programs\struct.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<math.h>
+	<windows.h>
+	<time.h>
+
+1685815555 source:c:\users\admin\desktop\kursova yarynka\programs\main.c
+	"header.h"
+
+1620720148 c:\users\admin\desktop\kursova yarynka\programs\header.h
+	"struct.h"
+
+1686399813 source:c:\users\admin\desktop\yarynka\function.c
+	"struct.h"
+
+1686399394 c:\users\admin\desktop\yarynka\struct.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<math.h>
+	<windows.h>
+	<time.h>
+
+1686411327 source:c:\users\admin\desktop\yarynka\main.c
+	"header.h"
+
+1686399289 c:\users\admin\desktop\yarynka\header.h
+	"struct.h"
+
